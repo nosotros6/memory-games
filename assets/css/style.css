@@ -1,0 +1,24 @@
+/* .grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+} */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+h3 {
+  text-align: center;
+}
