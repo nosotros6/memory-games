@@ -113,6 +113,22 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "cuyis",
       img: "./assets/img/cuyis.png",
     },
+    {
+      name: "happycat",
+      img: "./assets/img/happycat.png",
+    },
+    {
+      name: "happycat",
+      img: "./assets/img/happycat.png",
+    },
+    {
+      name: "chicken",
+      img: "./assets/img/chicken.png",
+    },
+    {
+      name: "chicken",
+      img: "./assets/img/chicken.png",
+    },
   ];
 
   cardArray.sort(() => 0.5 - Math.random());

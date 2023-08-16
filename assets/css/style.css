@@ -1,16 +1,17 @@
-.grid {
+/* .grid {
   display: grid;
   grid-template-columns: repeat(7, 140px);
   gap: 10px;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 20px;
-}
+} */
 
 .grid img {
   width: 140px;
   height: 140px;
   cursor: pointer;
+  margin: 4px;
 }
 
 .title-logo {
