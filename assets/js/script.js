@@ -90,7 +90,7 @@ function checkForMatch() {
   cardsChosenId = [];
   resultDisplay.textContent = cardsWon.length;
   if (cardsWon.length === cardArray.length/2) {
-    resultDisplay.textContent = ' Felicidades!';
+    resultDisplay.textContent = ' ¡Ganaste! ¡Felicidades!';
   }
 }
 
