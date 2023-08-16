@@ -54,8 +54,20 @@ document.addEventListener("DOMContentLoaded", () => {
       img: "./assets/img/cat2.png",
     },
     {
+      name: "cat2",
+      img: "./assets/img/cat2.png",
+    },
+    {
       name: "dogs",
       img: "./assets/img/dogs.png",
+    },
+    {
+      name: "dogs",
+      img: "./assets/img/dogs.png",
+    },
+    {
+      name: "pig1",
+      img: "./assets/img/pig1.png",
     },
     {
       name: "pig1",
@@ -66,6 +78,14 @@ document.addEventListener("DOMContentLoaded", () => {
       img: "./assets/img/dog1.png",
     },
     {
+      name: "dog1",
+      img: "./assets/img/dog1.png",
+    },
+    {
+      name: "dog2",
+      img: "./assets/img/dog2.png",
+    },
+    {
       name: "dog2",
       img: "./assets/img/dog2.png",
     },
@@ -74,8 +94,20 @@ document.addEventListener("DOMContentLoaded", () => {
       img: "./assets/img/dog3.png",
     },
     {
+      name: "dog3",
+      img: "./assets/img/dog3.png",
+    },
+    {
       name: "mapache",
       img: "./assets/img/mapache.png",
+    },
+    {
+      name: "mapache",
+      img: "./assets/img/mapache.png",
+    },
+    {
+      name: "cuyis",
+      img: "./assets/img/cuyis.png",
     },
     {
       name: "cuyis",
