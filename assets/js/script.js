@@ -50,52 +50,52 @@ document.addEventListener("DOMContentLoaded", () => {
       img: "./assets/img/sheep.png",
     },
     {
-      name: "cat2",
-      img: "./assets/img/cat2.png",
+      name: "sleepcat",
+      img: "./assets/img/sleepcat.png",
     },
     {
-      name: "cat2",
-      img: "./assets/img/cat2.png",
-    },
-    {
-      name: "dogs",
-      img: "./assets/img/dogs.png",
+      name: "sleepcat",
+      img: "./assets/img/sleepcat.png",
     },
     {
       name: "dogs",
       img: "./assets/img/dogs.png",
     },
     {
-      name: "pig1",
-      img: "./assets/img/pig1.png",
+      name: "dogs",
+      img: "./assets/img/dogs.png",
     },
     {
-      name: "pig1",
-      img: "./assets/img/pig1.png",
+      name: "pigs",
+      img: "./assets/img/pigs.png",
     },
     {
-      name: "dog1",
-      img: "./assets/img/dog1.png",
+      name: "pigs",
+      img: "./assets/img/pigs.png",
     },
     {
-      name: "dog1",
-      img: "./assets/img/dog1.png",
+      name: "tobi",
+      img: "./assets/img/tobi.png",
     },
     {
-      name: "dog2",
-      img: "./assets/img/dog2.png",
+      name: "tobi",
+      img: "./assets/img/tobi.png",
     },
     {
-      name: "dog2",
-      img: "./assets/img/dog2.png",
+      name: "twodog",
+      img: "./assets/img/twodog.png",
     },
     {
-      name: "dog3",
-      img: "./assets/img/dog3.png",
+      name: "twodog",
+      img: "./assets/img/twodog.png",
     },
     {
-      name: "dog3",
-      img: "./assets/img/dog3.png",
+      name: "bigdog",
+      img: "./assets/img/bigdog.png",
+    },
+    {
+      name: "bigdog",
+      img: "./assets/img/bigdog.png",
     },
     {
       name: "mapache",
